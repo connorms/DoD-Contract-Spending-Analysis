@@ -1,0 +1,10 @@
+# Windows system files
+desktop.ini
+Thumbs.db
+
+# Python/Jupyter temporary files
+__pycache__/
+.ipynb_checkpoints/
+
+# VS Code local settings
+.vscode/
